@@ -4,8 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Deploy your own Next.js and Typescript with Yarn 3 project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTheGrimSilence%2Fnextjs-yarn-typescript-starter)
-
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTheGrimSilence%2Fnextjs-yarn-typescript-starter&project-name=nextjs-yarn-typescript-starter&repo-name=nextjs-yarn-typescript-starter&demo-title=Next.js%20Typescript%20and%20Yarn%203%20Starter&demo-description=A%20simple%20Next.js%20website%20with%20Typescript%20Support%20using%20the%20Yarn%20Package%20Manager&demo-url=http%3A%2F%2Fnextjs-starter-sigma.vercel.app%2F&demo-image=https%3A%2F%2Fgithub.com%2FTheGrimSilence%2Fnextjs-yarn-typescript-starter%2Fblob%2Fmain%2Fpublic%2Fscreenshot.png%3Fraw%3Dtrue)
 *Live Example: http://nextjs-starter-sigma.vercel.app/*
 
 ## Getting Started
